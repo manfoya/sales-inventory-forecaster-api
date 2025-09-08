@@ -1,0 +1,18 @@
+# Data analysis and model
+pandas
+notebook
+matplotlib
+seaborn
+prophet
+
+# API
+fastapi
+uvicorn[standard]
+
+# Coté Tableau de bord
+streamlit
+requests
+
+# Pour le test
+pytest
+httpx
